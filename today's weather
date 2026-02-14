@@ -1,0 +1,9 @@
+{
+  "location": "Rumphi",
+  "date": "2026-02-14",
+  "condition": "Cloudy",
+  "temperature": {
+    "current": "24°C",
+    "high": "27°C",
+    "low": "18°C"
+  }
