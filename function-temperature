@@ -1,0 +1,11 @@
+//To Write a function that takes a temperature and returns "Cold", "Warm", or "Hot"
+ {
+  if (temperature < 15) { 
+    return "Cold";
+  } else if (temperature < 25) { 
+    return "Warm";
+  } else {
+    return "Hot";
+  }
+
+
